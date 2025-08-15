@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524052578823",
+    "project_id": "frudfluttertutroial",
+    "storage_bucket": "frudfluttertutroial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524052578823:android:fd4e900db046afa65b60a2",
+        "android_client_info": {
+          "package_name": "com.example.onlinedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjkQUlmtPPpYXajj_W-q4_p2W758VWHQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
