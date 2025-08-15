@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
                 //get note from each doc
                 Map<String, dynamic> data =
                     document.data() as Map<String, dynamic>;
-                String noteText = data['notes'];
+                String noteText = data['note'];
 
                 return ListTile(title: Text(noteText));
               },
